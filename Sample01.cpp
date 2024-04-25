@@ -6,8 +6,8 @@ using namespace std;
 
 int main(void)
 {
-	cout << "Maziyar" << " Sepasmoqadam";
-	
+	cout << "Maziyar" << " Sepasmoqadam\r\n";
+	cout << "Tahmoores";
 	
 	return 0;
 }
