@@ -3,8 +3,10 @@
 
 using namespace std;
 
-void main(void)
+int main(void)
 {
-	cout>> "Maziyar";
+	cout << "Maziyar";
 	
+	
+	return 0;
 }
