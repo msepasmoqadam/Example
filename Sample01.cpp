@@ -6,7 +6,7 @@ using namespace std;
 
 int main(void)
 {
-	std::cout << "Maziyar";
+	cout << "Maziyar";
 	
 	
 	return 0;
